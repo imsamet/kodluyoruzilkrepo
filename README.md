@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![github](imsamet/kodluyoruzilkrepo/blob/main/screenshot.png)
+![github](screenshot.png)
 
 ## Installation
 
